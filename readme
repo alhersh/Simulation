@@ -1,0 +1,25 @@
+    
+ ******************************************************
+ *This is simulation of how a vacuum cleaner can move *
+ *Through a pre defined space from the user           *
+ *The Work Space is initialized in a Random way       *
+ *The number of dirts and obstacles generated randomly*
+ *The Start point of the Vacuum is randomly generated *
+ *The direction of the vacuum generated randomly      *
+ ******************************************************
+ *This work is done as an assignment for:             *
+ *Course: Intelligent Agent Development Course.       *
+  *By: TAHA ALHERSH                                   *
+ ******************************************************
+ 
+ Following sample shows the direction in the array
+               North = 0
+        +----+----+----+----+
+        |    |    |    |    |
+        +----+----+----+----+
+West = 3|    |    |    |    |East =2
+        +----+----+----+----+
+        |    |    |    |    |
+        +----+----+----+----+
+               South =1
+ 
