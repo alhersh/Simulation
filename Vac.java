@@ -9,8 +9,7 @@
  ******************************************************
  *This work is done as an assignment for:             *
  *Course: Intelligent Agent Development Course.       *
- *Dr. Yuhanis Yousof                                  *
- *By: TAHA TALEB RAGHEB ALHERSH(802396)               *
+ *By: TAHA  ALHERSH                                   *
  ******************************************************
  */
 
